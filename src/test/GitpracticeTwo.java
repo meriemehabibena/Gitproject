@@ -5,6 +5,8 @@ public class GitpracticeTwo {
 	System.out.println("Thi is for push practice");
 	System.out.println("this is for pull practice";
 	System.out.println("this is second test pull practice")
+	System.out.println("this is second test pull practice")
+
 
 }
 }
