@@ -11,6 +11,7 @@ public class GitpracticeTwo {
 		System.out.println(c);
 		System.out.println("Test to ppush");
 		System.out.println("Test");
+		System.out.println("new pull");
 		
 	
 	
