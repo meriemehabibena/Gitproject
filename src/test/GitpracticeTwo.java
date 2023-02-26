@@ -8,7 +8,9 @@ public class GitpracticeTwo {
 		int c = a+b;
 		
 		
-		System.out.print(c);
+		System.out.println(c);
+		System.out.println("Test to ppush");
+		
 	
 	
 	
